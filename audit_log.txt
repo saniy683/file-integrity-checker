@@ -1,0 +1,9 @@
+2025-12-10 13:16:34 - System Initialized. Ready to monitor.
+2025-12-10 13:16:55 - Selected Target: C:/Users/rakri/Desktop/Security test
+2025-12-10 13:16:59 - Action: Creating New Baseline...
+2025-12-10 13:16:59 - Success: Baseline saved to baseline.json with 1 files.
+2025-12-10 13:17:24 - Action: Running Integrity Check...
+2025-12-10 13:17:24 - Scan Complete. Report:
+2025-12-10 13:17:24 -  WARNING: CHANGES DETECTED!
+2025-12-10 13:17:24 -    [MODIFIED] C:/Users/rakri/Desktop/Security test\test 1.txt
+2025-12-10 18:58:12 - System Initialized. Ready to monitor.
