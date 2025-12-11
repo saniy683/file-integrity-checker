@@ -1,13 +1,38 @@
-2025-12-10 13:23:44 - System Initialized. Ready to monitor.
-2025-12-10 13:23:55 - Selected Target: C:/Users/rakri/Desktop/Security test
-2025-12-10 13:24:10 - Action: Creating New Baseline...
-2025-12-10 13:24:10 - Success: Baseline saved to baseline.json with 1 files.
-2025-12-10 13:24:22 - Action: Running Integrity Check...
-2025-12-10 13:24:22 - Scan Complete. Report:
-2025-12-10 13:24:22 -  WARNING: CHANGES DETECTED!
-2025-12-10 13:24:22 -    [MODIFIED] C:/Users/rakri/Desktop/Security test\test 1.txt
-2025-12-10 13:24:56 - Action: Running Integrity Check...
-2025-12-10 13:24:56 - Scan Complete. Report:
-2025-12-10 13:24:56 -  WARNING: CHANGES DETECTED!
-2025-12-10 13:24:56 -    [MODIFIED] C:/Users/rakri/Desktop/Security test\test 1.txt
-2025-12-10 13:24:56 -    [ADDED]    C:/Users/rakri/Desktop/Security test\test 2.txt
+2025-12-11 06:20:15 - System Initialized. Ready to monitor.
+2025-12-11 06:21:09 - Selected Target: C:/Users/asusj/Desktop/security test
+2025-12-11 06:21:26 - Action: Creating New Baseline...
+2025-12-11 06:21:26 - Success: Baseline saved to baseline.json with 1 files.
+2025-12-11 06:23:25 - Action: Running Integrity Check...
+2025-12-11 06:23:25 - Scan Complete. Report:
+2025-12-11 06:23:25 -  WARNING: CHANGES DETECTED!
+2025-12-11 06:23:25 -    [MODIFIED] C:/Users/asusj/Desktop/security test\test 1.txt
+2025-12-11 06:23:36 - Action: Running Integrity Check...
+2025-12-11 06:23:36 - Scan Complete. Report:
+2025-12-11 06:23:36 -  WARNING: CHANGES DETECTED!
+2025-12-11 06:23:36 -    [MODIFIED] C:/Users/asusj/Desktop/security test\test 1.txt
+2025-12-11 06:24:02 - Action: Creating New Baseline...
+2025-12-11 06:24:02 - Success: Baseline saved to baseline.json with 1 files.
+2025-12-11 06:24:04 - Action: Running Integrity Check...
+2025-12-11 06:24:04 - Scan Complete. Report:
+2025-12-11 06:24:04 -  STATUS: SECURE (No changes detected)
+2025-12-11 06:24:14 - Action: Creating New Baseline...
+2025-12-11 06:24:14 - Success: Baseline saved to baseline.json with 1 files.
+2025-12-11 06:24:31 - Action: Running Integrity Check...
+2025-12-11 06:24:31 - Scan Complete. Report:
+2025-12-11 06:24:31 -  WARNING: CHANGES DETECTED!
+2025-12-11 06:24:31 -    [ADDED]    C:/Users/asusj/Desktop/security test\test 2.txt
+2025-12-11 06:24:41 - Action: Creating New Baseline...
+2025-12-11 06:24:41 - Success: Baseline saved to baseline.json with 2 files.
+2025-12-11 06:24:55 - Action: Running Integrity Check...
+2025-12-11 06:24:55 - Scan Complete. Report:
+2025-12-11 06:24:55 -  WARNING: CHANGES DETECTED!
+2025-12-11 06:24:55 -    [DELETED]  C:/Users/asusj/Desktop/security test\test 2.txt
+2025-12-11 06:28:03 - Action: Creating New Baseline...
+2025-12-11 06:28:03 - Success: Baseline saved to baseline.json with 1 files.
+2025-12-11 06:29:02 - Action: Running Integrity Check...
+2025-12-11 06:29:02 - Scan Complete. Report:
+2025-12-11 06:29:02 -  WARNING: CHANGES DETECTED!
+2025-12-11 06:29:02 -    [ADDED]    C:/Users/asusj/Desktop/security test\lake-9585821_1280.webp
+2025-12-11 06:29:54 - Action: Creating New Baseline...
+2025-12-11 06:29:54 - Success: Baseline saved to baseline.json with 2 files.
+2025-12-11 06:34:26 - System Initialized. Ready to monitor.
