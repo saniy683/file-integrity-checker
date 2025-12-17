@@ -36,3 +36,46 @@
 2025-12-11 06:29:54 - Action: Creating New Baseline...
 2025-12-11 06:29:54 - Success: Baseline saved to baseline.json with 2 files.
 2025-12-11 06:34:26 - System Initialized. Ready to monitor.
+2025-12-11 06:51:56 - System Initialized. Ready to monitor.
+2025-12-11 06:52:54 - Selected Target: C:/Users/asusj/Desktop/security test
+2025-12-11 06:53:00 - Action: Creating New Baseline...
+2025-12-11 06:53:00 - Success: Baseline saved to baseline.json with 2 files.
+2025-12-11 06:53:28 - Action: Running Integrity Check...
+2025-12-11 06:53:28 - Scan Complete. Report:
+2025-12-11 06:53:28 -  WARNING: CHANGES DETECTED!
+2025-12-11 06:53:28 -    [ADDED]    C:/Users/asusj/Desktop/security test\test2.txt
+2025-12-11 06:54:09 - Action: Running Integrity Check...
+2025-12-11 06:54:09 - Scan Complete. Report:
+2025-12-11 06:54:09 -  WARNING: CHANGES DETECTED!
+2025-12-11 06:54:09 -    [ADDED]    C:/Users/asusj/Desktop/security test\test2.txt
+2025-12-11 06:54:21 - Action: Creating New Baseline...
+2025-12-11 06:54:21 - Success: Baseline saved to baseline.json with 3 files.
+2025-12-11 06:54:25 - Action: Running Integrity Check...
+2025-12-11 06:54:25 - Scan Complete. Report:
+2025-12-11 06:54:25 -  STATUS: SECURE (No changes detected)
+2025-12-11 06:54:51 - Action: Running Integrity Check...
+2025-12-11 06:54:51 - Scan Complete. Report:
+2025-12-11 06:54:51 -  WARNING: CHANGES DETECTED!
+2025-12-11 06:54:51 -    [MODIFIED] C:/Users/asusj/Desktop/security test\test2.txt
+2025-12-11 08:38:06 - System Initialized. Ready to monitor.
+2025-12-11 08:38:51 - Selected Target: C:/Users/asusj/Desktop/security test
+2025-12-11 08:39:40 - Action: Running Integrity Check...
+2025-12-11 08:39:40 - Scan Complete. Report:
+2025-12-11 08:39:40 -  WARNING: CHANGES DETECTED!
+2025-12-11 08:39:40 -    [MODIFIED] C:/Users/asusj/Desktop/security test\test2.txt
+2025-12-11 08:39:40 -    [ADDED]    C:/Users/asusj/Desktop/security test\test3.txt
+2025-12-11 08:39:44 - Action: Running Integrity Check...
+2025-12-11 08:39:44 - Scan Complete. Report:
+2025-12-11 08:39:44 -  WARNING: CHANGES DETECTED!
+2025-12-11 08:39:44 -    [MODIFIED] C:/Users/asusj/Desktop/security test\test2.txt
+2025-12-11 08:39:44 -    [ADDED]    C:/Users/asusj/Desktop/security test\test3.txt
+2025-12-11 08:41:09 - Action: Running Integrity Check...
+2025-12-11 08:41:09 - Scan Complete. Report:
+2025-12-11 08:41:09 -  WARNING: CHANGES DETECTED!
+2025-12-11 08:41:09 -    [MODIFIED] C:/Users/asusj/Desktop/security test\test2.txt
+2025-12-11 08:41:09 -    [ADDED]    C:/Users/asusj/Desktop/security test\test3.txt
+2025-12-11 08:41:30 - Action: Running Integrity Check...
+2025-12-11 08:41:30 - Scan Complete. Report:
+2025-12-11 08:41:30 -  WARNING: CHANGES DETECTED!
+2025-12-11 08:41:30 -    [MODIFIED] C:/Users/asusj/Desktop/security test\test2.txt
+2025-12-11 08:41:30 -    [ADDED]    C:/Users/asusj/Desktop/security test\test3.txt
