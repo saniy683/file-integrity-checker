@@ -8,3 +8,10 @@
 2025-12-10 13:17:24 -    [MODIFIED] C:/Users/rakri/Desktop/Security test\test 1.txt
 2025-12-10 18:58:12 - System Initialized. Ready to monitor.
 2025-12-11 06:08:21 - System Initialized. Ready to monitor.
+2025-12-18 05:16:03 - BASELINE: File System Baseline Updated
+2025-12-18 05:16:34 - MODIFIED: C:/Users/asusj/Desktop/security test\test2.txt
+2025-12-18 05:33:13 - WEB BASELINE: Baseline set for https://api.github.com/repos/saniy683/file-integrity-checker/commits
+2025-12-18 05:33:31 - WEB SECURE: https://api.github.com/repos/saniy683/file-integrity-checker/commits (No Changes)
+2025-12-18 05:35:20 - WEB BASELINE: Baseline set for https://api.github.com/repos/saniy683/file-integrity-checker/commits
+2025-12-18 05:35:26 - WEB SECURE: https://api.github.com/repos/saniy683/file-integrity-checker/commits (No Changes)
+2025-12-18 05:37:23 - WEB CHANGE: https://api.github.com/repos/saniy683/file-integrity-checker/commits (Content Modified!)
